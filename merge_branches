@@ -1,0 +1,9 @@
+Command: git checkout main
+
+Command: git merge bug-fix-typo
+
+Output:
+Updating cf8e02a..3924f9b
+Fast-forward
+ README.md | 10 ++++++++--
+ 1 file changed, 8 insertions(+), 2 deletions(-)
