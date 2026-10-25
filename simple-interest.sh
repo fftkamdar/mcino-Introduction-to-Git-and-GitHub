@@ -5,6 +5,7 @@
 # Author: Upkar Lidder (IBM)
 # Additional Authors:
 # <your Github username>
+# Bug-fix verification for the assignment.
 
 # Input:
 # p, principal amount
